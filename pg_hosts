@@ -1,0 +1,9 @@
+[webserver]
+localhost
+172.31.26.212 ansible_ssh_user=manjitsinghyada ansible_ssh_pass='ghyada0A@igjfy'
+
+[webserver:vars]
+ansible_ssh_user=saranigo86gmail
+ansible_ssh_pass='6gmail0A@f7e5w'
+ansible_port=42006
+ansible_connection=ssh
